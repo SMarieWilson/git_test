@@ -1,0 +1,1 @@
+This is SMarieWilson’s first git project!
